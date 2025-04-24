@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chirag122005
-- 👀 I’m interested in doing Web Development kind of stuff
-- 🌱 I’m currently learning DSA
+- 👀 I’m currently focusing on Full Stack (MERN) Development
+- 🌱 I am proficient in C++
 - 💞️ I’m looking to collaborate on projects related to Web Development
 
 
