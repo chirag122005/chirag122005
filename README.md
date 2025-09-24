@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chirag122005
 - 👀 I’m currently focusing on Full Stack (MERN) Development
-- 🌱 I am proficient in C++
+- 🌱 I am proficient in JAVA
 - 💞️ I’m looking to collaborate on projects related to Web Development
 
 
